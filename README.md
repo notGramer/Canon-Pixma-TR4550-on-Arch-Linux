@@ -38,6 +38,7 @@ In my case i found my printer unter my Discovered Network Printers
 <img width="977" height="559" alt="image" src="https://github.com/user-attachments/assets/9c34c83d-7470-4368-a7a5-287744e5dbbe" />
 
 I leave these options as they are
+
 <img width="597" height="482" alt="image" src="https://github.com/user-attachments/assets/87bd235a-225d-4606-910e-15f463c00c90" />
 
 And under the Model, you should see the needed driver
